@@ -14,4 +14,5 @@ To use this, I just run it like
   
 This will capture the file to temp.eps, convert it to temp.png and then open it with gimp.
 
-
+This program does not initialize the serial port!
+before using it I pre-setup the serial port with minicom
